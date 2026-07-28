@@ -1,0 +1,45 @@
+{
+  "name": "Retail Analytics Dark Theme",
+  "dataColors": [
+    "#4361EE",
+    "#7209B7",
+    "#4CC9F0",
+    "#F72585",
+    "#3A0CA3",
+    "#39D353",
+    "#F4A261",
+    "#E76F51"
+  ],
+  "background": "#0D1117",
+  "foreground": "#C9D1D9",
+  "tableAccent": "#4361EE",
+  "visualStyles": {
+    "*": {
+      "*": {
+        "background": [{ "color": { "solid": { "color": "#161B22" } } }],
+        "border": [{ "show": false }],
+        "dropShadow": [{ "show": true }]
+      }
+    },
+    "card": {
+      "*": {
+        "calloutValue": [{ "fontSize": 32, "fontBold": true, "color": { "solid": { "color": "#4CC9F0" } } }],
+        "label": [{ "color": { "solid": { "color": "#8B949E" } } }],
+        "background": [{ "color": { "solid": { "color": "#161B22" } } }]
+      }
+    },
+    "slicer": {
+      "*": {
+        "background": [{ "color": { "solid": { "color": "#0D1117" } } }],
+        "header": [{ "fontColor": { "solid": { "color": "#C9D1D9" } } }],
+        "items": [{ "fontColor": { "solid": { "color": "#C9D1D9" } } }]
+      }
+    }
+  },
+  "textClasses": {
+    "callout": { "fontSize": 45, "fontFace": "Segoe UI", "color": "#C9D1D9" },
+    "title":   { "fontSize": 16, "fontFace": "Segoe UI", "color": "#FFFFFF", "fontWeight": "bold" },
+    "label":   { "fontSize": 10, "fontFace": "Segoe UI", "color": "#8B949E" },
+    "header":  { "fontSize": 12, "fontFace": "Segoe UI", "color": "#C9D1D9", "fontWeight": "bold" }
+  }
+}
