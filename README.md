@@ -320,13 +320,12 @@ RUN_ALL.bat
 
 ### 🧑‍💻 Author 1
 
-**Laxmikanta Roy**
+**Moumita Paul**
 
 ---
 
 ### 👩‍💻 Author 2
-
-**Moumita Paul**
+**Laxmikanta Roy**
 
 ---
 
